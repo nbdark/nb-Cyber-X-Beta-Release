@@ -97,7 +97,7 @@ global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
+    admin: '✉️✏️ _Admin විතරයි!_',
     botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
     owner: '✉️✏️ _This Feature Is Only For Owner!_',
     group: '✉️✏️ _Feature Used Only For Groups!_',
